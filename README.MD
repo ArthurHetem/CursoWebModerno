@@ -30,4 +30,4 @@ Arthur Hetem - ([@ArthurHetem](https://twitter.com/ArthurHetem)) - arthurhetem.1
 
   
 
-Link do Repopitório: [https://github.com/ArthurHetem/CursoWebModerno](https://github.com/ArthurHetem/CursoWebModerno)
+Link do Repositório: [https://github.com/ArthurHetem/CursoWebModerno](https://github.com/ArthurHetem/CursoWebModerno)
