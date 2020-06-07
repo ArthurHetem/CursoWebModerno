@@ -26,8 +26,8 @@ Este repositório segue o curso web moderno da Cod3r
 
   
 
-Arthur Hetem - [@ArthurHetem]([https://twitter.com/ArthurHetem](https://twitter.com/ArthurHetem)) - arthurhetem.1@hotmail.com
+Arthur Hetem - ([@ArthurHetem](https://twitter.com/ArthurHetem)) - arthurhetem.1@hotmail.com
 
   
 
-Link do Repopitorio: [https://github.com/ArthurHetem/CursoWebModerno](https://github.com/ArthurHetem/CursoWebModerno)
+Link do Repopitório: [https://github.com/ArthurHetem/CursoWebModerno](https://github.com/ArthurHetem/CursoWebModerno)
